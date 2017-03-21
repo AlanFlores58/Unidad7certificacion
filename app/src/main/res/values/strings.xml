@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unidad7 certificacion</string>
+    <string name="texto_usuario">Nombre de usuario</string>
+    <string name="texto_contrasena">Contraseña</string>
+    <string name="texto_color">seleccionar color</string>
+    <string name="texto_boton">Presioname!!!</string>
+</resources>
